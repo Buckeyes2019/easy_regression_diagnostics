@@ -26,7 +26,7 @@ This is a package that provides an easy way to produce a range of diagnostic sta
 Features
 --------
 
-* TODO
+* This is a package to easily produce regression diagnostic statistics and plots.
 
 Credits
 -------
