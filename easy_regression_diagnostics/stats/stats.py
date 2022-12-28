@@ -13,6 +13,3 @@ __author__ = """Adam Jungdahl"""
 __email__ = 'wise.lebron@gmail.com'
 __version__ = '0.1.0'
 
-from easy_regression_diagnostics import plotting
-from easy_regression_diagnostics import stats
-
